@@ -1,0 +1,27 @@
+{
+  "name": "node-chat-app",
+  "version": "1.0.0",
+  "description": "socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "engines": {
+      "node": "8.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpmcauliffe/node-chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpmcauliffe/node-chat-app/issues"
+  },
+  "homepage": "https://github.com/mpmcauliffe/node-chat-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
